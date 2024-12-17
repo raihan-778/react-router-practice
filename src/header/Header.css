@@ -1,0 +1,8 @@
+nav a {
+  margin-right: 20px;
+}
+nav a.active {
+  background-color: rgb(4, 69, 189);
+  font-weight: bold;
+  color: rgb(227, 198, 240);
+}
